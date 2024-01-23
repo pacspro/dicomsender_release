@@ -1,0 +1,1 @@
+Demo version of DicomSender application. Scan, modify, and send DICOM data with ease! DicomSender allows quick scanning of multiple CD/DVD/USB drives at a time, easy modification of patient info, and one-click import/send to PACS archives and reading stations.
